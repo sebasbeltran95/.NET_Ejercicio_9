@@ -1,0 +1,14 @@
+D:\platzi\forexcample\forexcample\bin\Debug\net6.0\forexcample.exe
+D:\platzi\forexcample\forexcample\bin\Debug\net6.0\forexcample.deps.json
+D:\platzi\forexcample\forexcample\bin\Debug\net6.0\forexcample.runtimeconfig.json
+D:\platzi\forexcample\forexcample\bin\Debug\net6.0\forexcample.dll
+D:\platzi\forexcample\forexcample\bin\Debug\net6.0\forexcample.pdb
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.AssemblyInfoInputs.cache
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.AssemblyInfo.cs
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.csproj.CoreCompileInputs.cache
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.dll
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\refint\forexcample.dll
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.pdb
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\forexcample.genruntimeconfig.cache
+D:\platzi\forexcample\forexcample\obj\Debug\net6.0\ref\forexcample.dll
